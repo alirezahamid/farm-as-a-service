@@ -79,5 +79,5 @@ Keep the jokes in the headings. Keep the logo boring.
 
 ## Content credentials
 
-The files carry C2PA content credentials that record they were made with
+Most files carry C2PA content credentials that record they were made with
 Claude. Please leave that metadata in place.
