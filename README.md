@@ -140,6 +140,7 @@ General advice lives in `docs/`. Laws, subsidies, and tax live in
 [`countries/`](countries/README.md).
 
 - [United Kingdom](countries/uk/README.md) (starter, needs help)
+- [Philippines](countries/ph/README.md) (starter, needs help)
 - Your country here. See [how to add it](countries/README.md).
 
 ### Templates

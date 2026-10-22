@@ -8,6 +8,7 @@ prices are local. They live here, one folder per country.
 | Code | Country | Status |
 | --- | --- | --- |
 | [`uk`](uk/README.md) | United Kingdom | Starter. Many TODOs. |
+| [`ph`](ph/README.md) | Philippines | Starter. Many TODOs. |
 
 Your country is not here? Add it.
 
